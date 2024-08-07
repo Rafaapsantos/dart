@@ -1,0 +1,1 @@
+[{"date":"12/07/2024","data":"Dollar: 5.4292 | Euro: 5.9295 | Pound Sterling: 7.0466 | Argentine Peso: 0.0059 | Bitcoin: 339121.884"},{"date":"13/07/2024","data":"Dollar: 5.4292 | Euro: 5.9295 | Pound Sterling: 7.0466 | Argentine Peso: 0.0059 | Bitcoin: 339121.884"}]
